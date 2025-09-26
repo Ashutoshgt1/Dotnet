@@ -1,0 +1,8 @@
+E:\dotNet\dotnet3(list)\bin\Debug\dotnet3(list).exe.config
+E:\dotNet\dotnet3(list)\bin\Debug\dotnet3(list).exe
+E:\dotNet\dotnet3(list)\bin\Debug\dotnet3(list).pdb
+E:\dotNet\dotnet3(list)\obj\Debug\dotnet3(list).csproj.AssemblyReference.cache
+E:\dotNet\dotnet3(list)\obj\Debug\dotnet3(list).csproj.CoreCompileInputs.cache
+E:\dotNet\dotnet3(list)\obj\Debug\dotnet3(list).exe
+E:\dotNet\dotnet3(list)\obj\Debug\dotnet3(list).pdb
+E:\dotNet\dotnet3(list)\obj\Debug\dotnet3(list).exe.config

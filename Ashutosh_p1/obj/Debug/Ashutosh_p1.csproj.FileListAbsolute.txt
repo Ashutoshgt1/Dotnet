@@ -1,0 +1,8 @@
+E:\dotNet\Ashutosh_p1\bin\Debug\Ashutosh_p1.exe.config
+E:\dotNet\Ashutosh_p1\bin\Debug\Ashutosh_p1.exe
+E:\dotNet\Ashutosh_p1\bin\Debug\Ashutosh_p1.pdb
+E:\dotNet\Ashutosh_p1\obj\Debug\Ashutosh_p1.csproj.AssemblyReference.cache
+E:\dotNet\Ashutosh_p1\obj\Debug\Ashutosh_p1.csproj.CoreCompileInputs.cache
+E:\dotNet\Ashutosh_p1\obj\Debug\Ashutosh_p1.exe
+E:\dotNet\Ashutosh_p1\obj\Debug\Ashutosh_p1.pdb
+E:\dotNet\Ashutosh_p1\obj\Debug\Ashutosh_p1.exe.config

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+w+JlvEecs4=",
+  "success": true,
+  "projectFilePath": "E:\\dotNet\\dev5\\dev5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ljeng\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\ljeng\\.nuget\\packages\\npgsql\\7.0.10\\npgsql.7.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

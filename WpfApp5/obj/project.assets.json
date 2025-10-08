@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\dotNet\\WpfApp5\\WpfApp5.csproj",
+      "projectUniqueName": "E:\\Ashutosh.net\\WpfApp5\\WpfApp5.csproj",
       "projectName": "WpfApp5",
-      "projectPath": "E:\\dotNet\\WpfApp5\\WpfApp5.csproj",
+      "projectPath": "E:\\Ashutosh.net\\WpfApp5\\WpfApp5.csproj",
       "packagesPath": "C:\\Users\\ljeng\\.nuget\\packages\\",
-      "outputPath": "E:\\dotNet\\WpfApp5\\obj\\",
+      "outputPath": "E:\\Ashutosh.net\\WpfApp5\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

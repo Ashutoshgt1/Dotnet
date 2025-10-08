@@ -6,11 +6,13 @@
         xmlns:local="clr-namespace:WpfApp5"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
-        <StackPanel>
-            <TextBlock Text="{Binding name}"/>
-            <TextBox Text="{Binding name,UpdateSourceTrigger=PropertyChanged}"/>
-            
+    <DockPanel>
+        <StackPanel DockPanel.Dock="Top" Orientation="Horizontal">
+        <Button Content="page1" Command="{Binding NavigatePage1Command}" Margin="5"></Button>
+        <Button Content="page2" Command="{Binding NavigatePage2Command}" Margin="5"></Button>
+        <Button Content="Back" Command="{Binding BackCommand}" Margin="5"></Button>
+        <Button Content="Forward" Command="{Binding ForwardCommand}" Margin="5"></Button>
         </StackPanel>
-    </Grid>
+        <Frame x:Name="mainframe" NavigationUIVisibility="Hidden"></Frame>
+    </DockPanel>
 </Window>

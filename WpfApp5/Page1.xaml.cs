@@ -1,4 +1,8 @@
-﻿using System.Text;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Data;
@@ -12,19 +16,13 @@ using System.Windows.Shapes;
 namespace WpfApp5
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// Interaction logic for Page1.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class Page1 : Page
     {
-        private viewmodel vm;
-
-        public MainWindow()
+        public Page1()
         {
             InitializeComponent();
-            vm = new viewmodel();
-            this.DataContext = vm;
-            vm.mainframe = mainframe;
-            mainframe.Navigate(new Page1());
         }
     }
 }
